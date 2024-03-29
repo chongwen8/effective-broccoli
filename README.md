@@ -1,2 +1,2 @@
 # effective-broccoli
-This is our first game developed by Unity.
+This is our first game developed by Unity3D.
